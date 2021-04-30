@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_begonia.mk
+    $(LOCAL_DIR)/soni_begonia.mk
