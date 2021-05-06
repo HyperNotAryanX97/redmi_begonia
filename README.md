@@ -4,4 +4,4 @@
 [CherishOS](https://github.com/sasukeuchiha-clan/redmi_begonia/tree/cherish)
 
 
-[SoniUi](https://github.com/sasukeuchiha-clan/redmi_begonia/tree/xospr)
+[SoniUi](https://github.com/sasukeuchiha-clan/redmi_begonia/tree/soni)
